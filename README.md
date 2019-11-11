@@ -10,10 +10,10 @@
 
 ##### 使用方法：
 ```
-###### 首先进入工程文件路径：cd /Users/用户名/Desktop/AppIconMaker/
-###### 一键切图标：python AutoProcessor.py icon
-###### 一键切带有角标的图标（需要提前添加角标）：python AutoProcessor.py FloatIcon
-###### 一键切LaunchImage：python AutoProcessor.py  screenshot
+ 首先进入工程文件路径：cd /Users/用户名/Desktop/AppIconMaker/
+ 一键切图标：python AutoProcessor.py icon
+ 一键切带有角标的图标（需要提前添加角标）：python AutoProcessor.py FloatIcon
+ 一键切LaunchImage：python AutoProcessor.py  screenshot
 ```
 
 
