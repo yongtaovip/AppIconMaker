@@ -1,7 +1,7 @@
 # AppIconMaker
 一键生成AppIcon、添加角标、LaunchImage闪屏（适用于Windows、Mac、Ubuntu、Linux全平台）
 
-#### 环境要求：（请提前配置好软件运行环境，添加相应的依赖库）
+### 环境要求：（请提前配置好软件运行环境，添加相应的依赖库）
 ##### （1）操作系统：Linux、Windows、Ubuntu、Linux全平台
 ##### （2）软件环境：Python2.7及以上
 ##### （3）需要的插件：PLI（图像处理库）安装方式见下文尾页
