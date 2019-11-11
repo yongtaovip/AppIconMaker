@@ -9,11 +9,12 @@
 ## 说明：本工具提供了iOS和安卓的icon和LaunchImage切图功能，可通过一行命令快速获取所需要规格的切图。
 
 ##### 使用方法：
+```
 ###### 首先进入工程文件路径：cd /Users/用户名/Desktop/AppIconMaker/
 ###### 一键切图标：python AutoProcessor.py icon
 ###### 一键切带有角标的图标（需要提前添加角标）：python AutoProcessor.py FloatIcon
 ###### 一键切LaunchImage：python AutoProcessor.py  screenshot
-
+```
 
 
 ##  一、目录结构
@@ -39,5 +40,5 @@
 
 #### 帮助支持：
 ##### pip 安装PLI库  python的库一般都用pip安装。安装命令：  pip install Pillow 
-##### 目前版本只允许上传规定尺寸的LaunchImage图片，请上传之前提前做好处理，后期
+#### 目前版本只允许上传规定尺寸的LaunchImage图片，请上传之前提前做好处理，后期
 会优化相关功能，支持更多格式的文件
