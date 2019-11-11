@@ -1,10 +1,10 @@
 # AppIconMaker
-一键生成AppIcon、添加角标、LaunchImage闪屏
+一键生成AppIcon、添加角标、LaunchImage闪屏（适用于Windows、Mac、Ubuntu、Linux全平台）
 
 #### 环境要求：（请提前配置好软件运行环境，添加相应的依赖库）
-##### （1）操作系统：Linux或者Windows
-##### （2）软件环境：Python2.7
-##### （3）需要的插件：PLI（图像处理）【后期优化为OpenCV，环境升级为Python3.0以上】
+##### （1）操作系统：Linux、Windows、Ubuntu、Linux全平台
+##### （2）软件环境：Python2.7及以上
+##### （3）需要的插件：PLI（图像处理库）安装方式见下文尾页
 
 ## 说明：本工具提供了iOS和安卓的icon和LaunchImage切图功能，可通过一行命令快速获取所需要规格的切图。
 
