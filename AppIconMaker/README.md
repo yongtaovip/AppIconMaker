@@ -14,10 +14,6 @@
 ###### 一键切带有角标的图标（需要提前添加角标）：python AutoProcessor.py FloatIcon
 ###### 一键切LaunchImage：python AutoProcessor.py  screenshot
 
----
-typora-copy-images-to: ../WX20191111-222320@2x.png
-
----
 
 # 自动化视图工具操作提示：
 
