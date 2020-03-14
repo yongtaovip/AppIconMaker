@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd1bb796-5c2c-4db7-a92c-d6824e7dd9b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4nmC37vpY88BrYh3LwNVndKpY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/upload/splash" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="AppIconMaker" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="AppIconMaker" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/upload/splash/ios" />
+      <recent name="$PROJECT_DIR$/upload/splash/jsonfile" />
+      <recent name="$PROJECT_DIR$/upload/icon/jsonfile" />
+      <recent name="$PROJECT_DIR$/upload/jsonfile" />
+      <recent name="$PROJECT_DIR$/Scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/upload/splash" />
+      <recent name="$PROJECT_DIR$/upload/icon" />
+      <recent name="$PROJECT_DIR$/upload" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Index">
+    <configuration name="Index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AppIconMaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/Index.py" />
+      <option name="PARAMETERS" value="Index.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="AppIconMaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Index.py" />
+      <option name="PARAMETERS" value="Index.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="icon_tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AppIconMaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/icon_tool.py" />
+      <option name="PARAMETERS" value="Index.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="splash_tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AppIconMaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/splash_tool.py" />
+      <option name="PARAMETERS" value="Index.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AppIconMaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/test.py" />
+      <option name="PARAMETERS" value="Index.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thread_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AppIconMaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/thread_utils.py" />
+      <option name="PARAMETERS" value="Index.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.icon_tool" />
+      <item itemvalue="Python.Index" />
+      <item itemvalue="Python.splash_tool" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.thread_utils" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Index" />
+        <item itemvalue="Python.splash_tool" />
+        <item itemvalue="Python.icon_tool" />
+        <item itemvalue="Python.thread_utils" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1bb796-5c2c-4db7-a92c-d6824e7dd9b4" name="Default Changelist" comment="" />
+      <created>1584107390421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584107390421</updated>
+      <workItem from="1584107392578" duration="169000" />
+      <workItem from="1584107637093" duration="1418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="98" y="28" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584201886853">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="98" y="28" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727@0.23.1280.727" timestamp="1584201886853" />
+    <state x="372" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584111619475">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="372" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.727@0.23.1280.727" timestamp="1584111619475" />
+    <state x="443" y="272" key="Github.CreateGistDialog" timestamp="1584203260399">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="443" y="272" key="Github.CreateGistDialog/0.23.1280.727@0.23.1280.727" timestamp="1584203260399" />
+    <state width="1239" height="106" key="GridCell.Tab.0.bottom" timestamp="1584202783516">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1239" height="106" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1584202783516" />
+    <state width="1239" height="106" key="GridCell.Tab.0.center" timestamp="1584202783515">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1239" height="106" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1584202783515" />
+    <state width="1239" height="106" key="GridCell.Tab.0.left" timestamp="1584202783514">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1239" height="106" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1584202783514" />
+    <state width="1239" height="106" key="GridCell.Tab.0.right" timestamp="1584202783515">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1239" height="106" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1584202783515" />
+    <state width="1239" height="207" key="GridCell.Tab.1.bottom" timestamp="1584188980945">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1239" height="207" key="GridCell.Tab.1.bottom/0.23.1280.727@0.23.1280.727" timestamp="1584188980945" />
+    <state width="1239" height="207" key="GridCell.Tab.1.center" timestamp="1584188980945">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1239" height="207" key="GridCell.Tab.1.center/0.23.1280.727@0.23.1280.727" timestamp="1584188980945" />
+    <state width="1239" height="207" key="GridCell.Tab.1.left" timestamp="1584188980944">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1239" height="207" key="GridCell.Tab.1.left/0.23.1280.727@0.23.1280.727" timestamp="1584188980944" />
+    <state width="1239" height="207" key="GridCell.Tab.1.right" timestamp="1584188980945">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1239" height="207" key="GridCell.Tab.1.right/0.23.1280.727@0.23.1280.727" timestamp="1584188980945" />
+    <state x="143" y="23" key="SettingsEditor" timestamp="1584201964681">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="143" y="23" key="SettingsEditor/0.23.1280.727@0.23.1280.727" timestamp="1584201964681" />
+    <state x="313" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1584201681517">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="313" y="199" key="com.intellij.ide.util.TipDialog/0.23.1280.727@0.23.1280.727" timestamp="1584201681517" />
+    <state x="299" y="74" key="search.everywhere.popup" timestamp="1584185326117">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="299" y="74" key="search.everywhere.popup/0.23.1280.727@0.23.1280.727" timestamp="1584185326117" />
+  </component>
+</project>
