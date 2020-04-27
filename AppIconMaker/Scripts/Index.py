@@ -26,6 +26,7 @@ output_splash = "output/splash/"
 output_badge = "output/badge/"
 
 def checkResourcesDir():
+    log_utils.info("正在检查资源路径,请稍后.....")
     # 检查备用资源
     dirs = [root_icon,root_splash,root_badge,output_icon,output_splash,output_badge]
     for item in dirs:
@@ -33,8 +34,9 @@ def checkResourcesDir():
 
 
 def selectFunctionNum():
+#    return 3
     array = ["获取APPIcon", "获取Splash闪屏", "给APPIcon添加角标", "ipa包去签名", "请重新选择正确的功能编号"]
-    num = int(input("请输入要执行的程序：\n\t0 获取APPIcon\n\t1 获取Splash闪屏\n\t2 给APPIcon添加角标\n\t3 ipa包去签名\n"))
+    num = int(input("请输入要执行的程序：\n\t0 获取APPIcon\n\t1 获取Splash闪屏\n\t2 给APPIcon添加角标\n\t3 ipa包重签名\n"))
     if num > 3:
         num = 4
         print(array[num])
@@ -55,10 +57,10 @@ if __name__ == '__main__':
     num = 5
     while i<5 :
         i+=1
-        # num=selectFunctionNum()
+        num=selectFunctionNum()
         print(sys.argv[1])
         log_utils.printf()
-        num= int(sys.argv[1])
+        # num= int()
         if [0,1,2,3].__contains__(num):
             break
 
@@ -69,7 +71,7 @@ if __name__ == '__main__':
     elif num == 1:
         result = splash_tool.dealWithSplashPath()
     elif num == 2:
-        result = badge_tool.dealWithSplashPath()
+        result = badge_tool.dealWithBadgePath()
     else:
         result = ipa_utils.removeIpaSigning()
 

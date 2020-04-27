@@ -24,6 +24,38 @@ def make_archiveWithInfo():
     log_utils.info("打包结束之后的zip路径为:" + new_path)
 
 
+def circle_corner(img, radii):
+    """
+        圆角处理
+        :param img: 源图象。
+        :param radii: 半径，如：30。
+        :return: 返回一个圆角处理后的图象。
+        """
+    # 画圆（用于分离4个角）
+    circle = Image.new('L', (radii * 2, radii * 2), 0)  # 创建一个黑色背景的画布
+    draw = ImageDraw.Draw(circle)
+    draw.ellipse((0, 0, radii * 2, radii * 2), fill=255)  # 画白色圆形
+
+    # 原图
+    img = img.convert("RGBA")
+    w, h = img.size
+    if w == h:
+        pass
+    else:
+        print('请输入一张1024x1024像素的icon图片')
+        return {"error_code": 101, "msg": "please upload a square image！"}
+    # 画4个角（将整圆分离为4个部分）
+    alpha = Image.new('L', img.size, 255)
+    alpha.paste(circle.crop((0, 0, radii, radii)), (0, 0))  # 左上角
+    alpha.paste(circle.crop((radii, 0, radii * 2, radii)), (w - radii, 0))  # 右上角
+    alpha.paste(circle.crop((radii, radii, radii * 2, radii * 2)), (w - radii, h - radii))  # 右下角
+    alpha.paste(circle.crop((0, radii, radii, radii * 2)), (0, h - radii))  # 左下角
+    img.putalpha(alpha)  # 白色区域透明可见，黑色区域不可见
+    return img
+
+
+
+
 
 def processingIcons(appicon_path="",platform="ios",sizeArray=[]):
     """APPIcon的处理流程"""
@@ -61,16 +93,9 @@ def processingIcons(appicon_path="",platform="ios",sizeArray=[]):
             log_utils.warning("平台选择错误")
 
 
+def dealWithIconPath(badge_path=""):
 
 
-
-
-
-
-
-
-
-def dealWithIconPath():
     """外部入口"""
     log_utils.info("进入appicon处理程序---开始处理icon")
     # 检查资源
@@ -92,12 +117,12 @@ def dealWithIconPath():
             if ".png" in filename:
                 appIconDir = filename
 
-
-    iOSIconSizes = [("icon-20@2x", 40), ("icon-20@3x", 60), ("icon-29@2x", 58), ("icon-29@3x", 87),
+    iOSIconSizes = [("icon-20@2x", 40), ("icon-20@3x", 60),("icon-29", 29), ("icon-29@2x", 58), ("icon-29@3x", 87),
                     ("icon-40@2x", 80), ("icon-40@3x", 120), ("icon-60@2x", 120),
-                    ("icon-60@3x", 180), ("icon-1024", 1024), ("icon-20", 20), ("icon-40", 40),
-                    ("icon-72", 72), ("icon-72@2x", 144), ("icon-76", 76), ("icon-76@2x", 152),
-                    ("icon-83.5@2x", 167)]
+                    ("icon-60@3x", 180), ("icon-1024", 1024), ("icon-40", 40),
+                    ("icon-72", 72), ("icon-29-ipad", 29), ("icon-72@2x", 144), ("icon-76", 76), ("icon-76@2x", 152),
+                    ("icon-83.5@2x", 167),("icon-57", 57),("icon-57@2x", 114), ("icon-20-ipad", 20),
+                    ("icon-20-ipad@2x", 40), ("icon-50", 50), ("icon-50@2x", 100), ("icon-29-ipad@2x", 58),]
     AndroidIconList = [("drawable-ldpi", 36,"icon-36"), ("drawable-mdpi", 48,"icon-48"), ("drawable-hdpi", 72,"icon-72"),
                        ("drawable-xhdpi", 96,"icon-96"),
                        ("drawable-xxhdpi", 144,"icon-144"), ("drawable-xxxhdpi", 192,"icon-192"),

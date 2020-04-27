@@ -1,67 +1,13 @@
-2020-03-15 00:26:38,920: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/upload/icon/
-2020-03-15 00:26:38,920: /Users/qiner/Desktop/Test/AppIconMaker/upload/icon/
-2020-03-15 00:26:38,921: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/upload/splash/
-2020-03-15 00:26:38,921: /Users/qiner/Desktop/Test/AppIconMaker/upload/splash/
-2020-03-15 00:26:38,921: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/upload/badge/
-2020-03-15 00:26:38,921: /Users/qiner/Desktop/Test/AppIconMaker/upload/badge/
-2020-03-15 00:26:38,921: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/output/icon/
-2020-03-15 00:26:38,921: /Users/qiner/Desktop/Test/AppIconMaker/output/icon/
-2020-03-15 00:26:38,921: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/output/splash/
-2020-03-15 00:26:38,921: /Users/qiner/Desktop/Test/AppIconMaker/output/splash/
-2020-03-15 00:26:38,921: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/output/badge/
-2020-03-15 00:26:38,921: /Users/qiner/Desktop/Test/AppIconMaker/output/badge/
-2020-03-15 00:26:38,922: 进入splash处理程序---开始处理splash
-2020-03-15 00:26:38,922: 正在扫描：/Users/qiner/Desktop/Test/AppIconMaker/upload/splash/ios
-2020-03-15 00:26:38,922: /Users/qiner/Desktop/Test/AppIconMaker/upload/splash/ios/LaunchScreenL.png
-2020-03-15 00:26:38,922: /Users/qiner/Desktop/Test/AppIconMaker/upload/splash/ios/LaunchScreenP.png
-2020-03-15 00:26:38,931: STREAM b'IHDR' 16 13
-2020-03-15 00:26:38,931: STREAM b'pHYs' 41 9
-2020-03-15 00:26:38,931: STREAM b'iTXt' 62 14959
-2020-03-15 00:26:38,931: STREAM b'cHRM' 15033 32
-2020-03-15 00:26:38,931: STREAM b'IDAT' 15077 122907
-2020-03-15 00:26:38,931: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:38,989: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:39,358: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:39,696: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:39,900: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:40,277: STREAM b'IHDR' 16 13
-2020-03-15 00:26:40,277: STREAM b'pHYs' 41 9
-2020-03-15 00:26:40,277: STREAM b'iTXt' 62 14959
-2020-03-15 00:26:40,284: STREAM b'cHRM' 15033 32
-2020-03-15 00:26:40,284: STREAM b'IDAT' 15077 125337
-2020-03-15 00:26:40,284: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:40,335: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:40,678: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:41,012: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:41,222: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:41,620: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:41,662: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:41,735: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:41,849: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/ios/LaunchImage.launchimage/
-2020-03-15 00:26:41,944: STREAM b'IHDR' 16 13
-2020-03-15 00:26:41,944: STREAM b'pHYs' 41 9
-2020-03-15 00:26:41,944: STREAM b'iTXt' 62 14959
-2020-03-15 00:26:41,944: STREAM b'cHRM' 15033 32
-2020-03-15 00:26:41,944: STREAM b'IDAT' 15077 122907
-2020-03-15 00:26:42,013: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_ldpi
-2020-03-15 00:26:42,022: 保存Splash/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_ldpisplash.png
-2020-03-15 00:26:42,028: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_mdpi
-2020-03-15 00:26:42,046: 保存Splash/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_mdpisplash.png
-2020-03-15 00:26:42,059: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_hdpi
-2020-03-15 00:26:42,103: 保存Splash/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_hdpisplash.png
-2020-03-15 00:26:42,128: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_xhdpi
-2020-03-15 00:26:42,234: 保存Splash/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_xhdpisplash.png
-2020-03-15 00:26:42,304: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_xxhdpi
-2020-03-15 00:26:42,539: 保存Splash/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_xxhdpisplash.png
-2020-03-15 00:26:42,541: STREAM b'IHDR' 16 13
-2020-03-15 00:26:42,542: STREAM b'pHYs' 41 9
-2020-03-15 00:26:42,542: STREAM b'iTXt' 62 14959
-2020-03-15 00:26:42,542: STREAM b'cHRM' 15033 32
-2020-03-15 00:26:42,542: STREAM b'IDAT' 15077 125337
-2020-03-15 00:26:42,610: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_ldpi
-2020-03-15 00:26:42,626: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_mdpi
-2020-03-15 00:26:42,657: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_hdpi
-2020-03-15 00:26:42,735: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_xhdpi
-2020-03-15 00:26:42,910: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/android/drawable_xxhdpi
-2020-03-15 00:26:43,162: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/temp/splash/
-2020-03-15 00:26:43,244: 打包结束之后的zip路径为:/Users/qiner/Desktop/Test/AppIconMaker/output/splash/20200315002643.zip
+2020-04-27 09:45:13,339: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/upload/icon/
+2020-04-27 09:45:13,339: /Users/qiner/Desktop/Test/AppIconMaker/upload/icon/
+2020-04-27 09:45:13,339: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/upload/splash/
+2020-04-27 09:45:13,339: /Users/qiner/Desktop/Test/AppIconMaker/upload/splash/
+2020-04-27 09:45:13,339: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/upload/badge/
+2020-04-27 09:45:13,340: /Users/qiner/Desktop/Test/AppIconMaker/upload/badge/
+2020-04-27 09:45:13,340: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/output/icon/
+2020-04-27 09:45:13,340: /Users/qiner/Desktop/Test/AppIconMaker/output/icon/
+2020-04-27 09:45:13,341: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/output/splash/
+2020-04-27 09:45:13,341: /Users/qiner/Desktop/Test/AppIconMaker/output/splash/
+2020-04-27 09:45:13,341: 目录已存在/Users/qiner/Desktop/Test/AppIconMaker/output/badge/
+2020-04-27 09:45:13,341: /Users/qiner/Desktop/Test/AppIconMaker/output/badge/
+2020-04-27 09:45:13,341: 进入ipa签名管理处理程序---开始处理ipa

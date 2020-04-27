@@ -75,7 +75,7 @@
         {
             "size": "20x20",
             "idiom": "ipad",
-            "filename": "icon-20@2x-ipad.png",
+            "filename": "icon-20-ipad@2x.png",
             "scale": "2x"
         },
         {
@@ -87,7 +87,7 @@
         {
             "size": "29x29",
             "idiom": "ipad",
-            "filename": "icon-29@2x-ipad.png",
+            "filename": "icon-29-ipad@2x.png",
             "scale": "2x"
         },
         {
